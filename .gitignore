@@ -21,7 +21,6 @@ bower_components
 
 # Build-related
 *.log
-dist/
 tmp
 coverage/
 .build_cache/
